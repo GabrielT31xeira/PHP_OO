@@ -1,0 +1,19 @@
+{
+    "name": "gt3ix/php_oo",
+    "authors": [
+        {
+            "name": "Gabriel Teixeira de Carvalho",
+            "email": "70416214+GabrielT31xeira@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5",
+        "symfony/var-dumper": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "files": []
+}
